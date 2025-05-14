@@ -1,7 +1,7 @@
 # **🏡 Smart Home Automation System using Python**
 
-This is simple yet intteractive program is built using Python.  
-It allows users to control and monitor common home devices using Python Data Structures including, **Lists**, **Tuples**, **Dictionaries**, and **Sets**.
+This project is a Python-based **Smart Home Automation System** that simulates the management of smart devices, energy tracking, and automation features using core Python concepts.  
+It allows users to control and monitor common home devices using Python Data Structures including, **Lists**, **Tuples**, **Dictionaries**, and **Sets**. 
 
 ---
 
@@ -15,10 +15,13 @@ It allows users to control and monitor common home devices using Python Data Str
 
 ---
 
-## **💻 Technologies Used**
-- **Python**
-- Data structures: Lists, Tuples, Dictionaries, Sets
-- Loops and Conditionals
+## 🧠 Concepts Practiced
+
+- **Python Data Structures:** Lists, Tuples, Dictionaries, and Sets  
+- **Functions** (Basic and Advanced use cases)  
+- **Conditional Statements** (`if-elif-else`)  
+- **Looping** (`for`)  
+- Real-world **Data Handling** and **Problem-Solving**
 
 ---
 
@@ -28,11 +31,11 @@ It allows users to control and monitor common home devices using Python Data Str
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
 
-2. Open the Python file (e.g., smart_home.py) in your editor.
+2. Open the Python Notebook file (e.g., smart_home.ipynb) in your editor.
 
 3. Run it using:
    ```bash
-   python smart_home.py
+   python smart_home.ipynb
 
 ---
 
@@ -44,6 +47,7 @@ This project focuses on:
 - Practicing basic Data Structure operations like adding, removing, updating, sorting, and searching in the data.
 - Utilizing Conditional Statements for effective decision-making.
 - Looping through multiple smart devices and list of devices to display the outputs clearly.
+- Creating Functions for modular and reusable code.
 
 ---
 
